@@ -5,10 +5,10 @@ main:
 #    url: /research/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Publications"
     url: https://github.com/anushaballawala/anushaballawala.github.io/files/8733766/Allawala_CV_052022.pdf
+    
+#  - title: "Publications"
+#   url: /publications/
     
 
     
