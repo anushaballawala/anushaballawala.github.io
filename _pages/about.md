@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I am a NIH D-SPAN F99 Fellow working towards my PhD in Biomedical Engineering at Brown University. 
 
 
 
