@@ -14,7 +14,7 @@ After my undergraduate degree, I worked as a research associate at a neuroscienc
 
 My dissertation research is centered on characterizing the neural dynamics associated with cognitive control in treatment-resistant depression, and the effect of deep brain stimulation therapy on cognitive control networks through a multi-institute clinical trial at Baylor College of Medicine and University of Texas, Southwestern. My long-term career goals are to complement clinical intracranial recordings with cell-type specific tools for neural circuit dissection in rodent models to better understand and optimize neuromodulation in neuropsychiatric disorders. 
 
-You can find my up-to-date CV with recent publications and presentations [here](https://github.com/anushaballawala/anushaballawala.github.io/files/Allawala_CV_052022.pdf)
+You can find my up-to-date CV with recent publications and presentations [here](https://github.com/anushaballawala/anushaballawala.github.io/files/8733766/Allawala_CV_052022.pdf)
 
 
 
