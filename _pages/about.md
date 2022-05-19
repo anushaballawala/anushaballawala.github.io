@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a NIH F99 Fellow and a PhD candidate in Biomedical Engineering working with Dr. David Borton at Brown University and Dr. Sameer Sheth at Baylor College of Medicine. I immigrated to the US from Pakistan for my undergraduate education, which I received from San Jose State University, where I worked with Dr. Katherine Wilkinson on characterizing spindle afferent function following inflammation as a McNair Scholar. 
+I am currently a NIH F99 Fellow and a PhD candidate in Biomedical Engineering working with Dr. David Borton at Brown University and Dr. Sameer Sheth at Baylor College of Medicine. I immigrated to the US from Pakistan for my undergraduate education, which I received from San Jose State University, where I worked with [Dr. Katherine Wilkinson](https://wilkinsonneuro.com/) on characterizing spindle afferent function following inflammation as a McNair Scholar. 
 
 After my undergraduate degree, I worked as a research associate at a neuroscience startup, Circuit Therapeutics, Inc. in Menlo Park, CA under Dr. Nguyen-Vu on optogenetic stimulation of neural circuits in Parkinson's disease, before starting graduate school at Brown as an NSF GRFP fellow. 
 
