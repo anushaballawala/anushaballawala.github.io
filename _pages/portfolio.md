@@ -19,6 +19,5 @@ I'm a big believer in the impact of the CSU education system and the ongoing res
 
 
 {% for post in site.portfolio%}
-  {% include archive-single.html %}
-{% endfor %}
+
 
