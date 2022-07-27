@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my most recent CV [here](https://github.com/anushaballawala/anushaballawala.github.io/files/8733766/Allawala_CV_0620022.pdf)
+You can find my most recent CV [here](https://github.com/anushaballawala/anushaballawala.github.io/files/8733766/Allawala_CV_July_2022.pdf)
 
