@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a [NIH F99 Fellow](https://neuroscienceblueprint.nih.gov/training/nih-blueprint-d-span-award-f99k00) and a PhD candidate in Biomedical Engineering working with [Dr. David Borton](https://borton.engin.brown.edu/) in the Carney Institute for Brain Science at Brown University and [Dr. Sameer Sheth](https://www.bcm.edu/people-search/sameer-sheth-30585) at Baylor College of Medicine. I immigrated to the US from Pakistan for my undergraduate education, which I received from San Jose State University, where I worked with [Dr. Katherine Wilkinson](https://wilkinsonneuro.com/) on characterizing spindle afferent function following inflammation as a McNair Scholar. 
-
-After my undergraduate degree, I worked as a research associate at a neuroscience startup, Circuit Therapeutics, Inc. in Menlo Park, CA under Dr. Nguyen-Vu on optogenetic stimulation of neural circuits in Parkinson's disease, before starting graduate school at Brown as an NSF GRFP fellow. 
-
-My dissertation research is centered on characterizing the neural dynamics associated with cognitive control in treatment-resistant depression, and the effect of deep brain stimulation therapy on cognitive control networks through a multi-institute clinical trial at Baylor College of Medicine and University of Texas, Southwestern. My long-term career goals are to complement clinical intracranial recordings with cell-type specific tools for neural circuit dissection in rodent models to better understand and optimize neuromodulation in neuropsychiatric disorders. 
+I am currently a [NIH DSPAN Fellow](https://neuroscienceblueprint.nih.gov/training/nih-blueprint-d-span-award-f99k00) and a postdoctoral fellow in the Department of Neurosurgery at UCSF working with [Dr. Eddie Chang](https://changlab.ucsf.edu/) and [Dr. Andrew Krystal]. I completed my PhD in Biomedical Engineering at Brown University with Dr. David Borton in collaboration with Dr. Sameer Sheth at Baylor College of Medicine. My primary research focus is on understanding network states in psychatric and mood disorders such as Major Depressive Disorder using intracranial recordings and the neural mechanisms of interventional therapies such as deep brain stimulation. 
 
 You can find my up-to-date CV with recent publications and presentations [here](https://anushaballawala.github.io/files/Allawala_CV_July_2022.pdf)
 
